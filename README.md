@@ -1,18 +1,22 @@
 <div align="center">
+  
+<img width="96" alt="preview" src="https://imgur.com/5ldlRqF.png" />
 
 # Mac Spoofer
 
 **Wi-Fi MAC address spoofer that auto-detects wireless adapters**
 
+https://github.com/user-attachments/assets/cf69c331-a8ab-4971-b9de-2c5861e9fb29
 
 </div>
 
-## Options
+ ## Options
 
-`1` - spoof mac address
-`2` - revert back to your burned-in hardware MAC
-`3` - check mac address
-`4` - exit
+1. **Spoof MAC address**
+2. **Revert back to your burned-in hardware MAC**
+3. **Check MAC address**
+4. **Exit**
+
 
 ## Needs
 
