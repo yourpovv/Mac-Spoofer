@@ -17,11 +17,13 @@ https://github.com/user-attachments/assets/cf69c331-a8ab-4971-b9de-2c5861e9fb29
 3. **Check MAC address**
 4. **Exit**
 
-
 ## Needs
 
 - Windows + Wi-Fi adapter
 - admin elevation
+
+# Download
+you can find the download from the [releases](https://github.com/yourpovv/Mac-Spoofer/releases/tag/V1.0.0)
 
 ## Run
 
